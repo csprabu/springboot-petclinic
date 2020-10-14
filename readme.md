@@ -1,5 +1,7 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
+## Understanding git!
+
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
@@ -8,7 +10,7 @@ Petclinic is a [Spring Boot](https://spring.io/guides/gs/spring-boot) applicatio
 
 
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/csprabu/springboot-petclinic.git
 cd spring-petclinic
 ./mvnw package
 java -jar target/*.jar
